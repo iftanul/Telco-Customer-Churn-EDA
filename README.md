@@ -1,5 +1,4 @@
 # Telco Customer Churn Analysis 📡📉  
-*(This project is created as part of my Data Analysis learning portfolio.)*
 
 ---
 
